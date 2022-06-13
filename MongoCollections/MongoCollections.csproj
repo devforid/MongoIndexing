@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MongoConnection\MongoConnection.csproj" />
-    <ProjectReference Include="..\MongoIndexing\MongoIndexing.csproj" />
   </ItemGroup>
 
 </Project>

@@ -15,7 +15,7 @@ namespace WebService.Controllers
         }
 
 
-        [Authorize(Roles = "admin")]
+        //[Authorize(Roles = "admin")]
         [HttpPost]
         public async Task<string> CreateIndexAsync()
         {
